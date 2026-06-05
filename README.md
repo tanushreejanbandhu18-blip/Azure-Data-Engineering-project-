@@ -137,8 +137,8 @@ Territory Analysis
 Customer Trends
 Order Quantity Analysis
 KPI Monitoring
+<img width="1381" height="756" alt="Screenshot 2026-06-05 183524" src="https://github.com/user-attachments/assets/a3eceb2c-fcd9-4215-8f99-ba221c55bbd8" />
 
-📷 Insert Power BI Dashboard Screenshot Here
 
 🔄 End-to-End Pipeline Workflow
 Data extracted from HTTPS source systems.
