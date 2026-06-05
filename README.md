@@ -8,7 +8,7 @@ The project follows the Medallion Architecture approach, where data is processed
 
 Raw Adventure Works datasets were ingested from HTTPS sources using Azure Data Factory pipelines, transformed using Azure Databricks, curated in Azure Synapse Analytics, and finally visualized through an interactive Power BI dashboard.
 
-##🏗️ Solution Architecture
+🏗️## Solution Architecture
 
 <img width="1536" height="1024" alt="ChatGPT Image Jun 4, 2026, 05_41_57 PM" src="https://github.com/user-attachments/assets/e5983f5e-9c21-4267-8179-81d3e348dbaf" />
 
